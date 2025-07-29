@@ -19,5 +19,5 @@ The '+' button should increase the number held by the nested widget beneath. The
 5.  YOU CANNOT USE ANY PACKAGES.
 
 ## Second exercise
-Add another button "-" that every time is tapped, it subtracts 1 to the counter of the counter. Note that the value should never be below 0.
+Add another button "-" that every time is tapped, it subtracts 1 to the counter. Note that the value should never be below 0.
  
